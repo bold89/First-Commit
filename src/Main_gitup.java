@@ -15,6 +15,7 @@ public class Main_gitup {
 		// TODO Auto-generated method stub
 		
 		System.out.println("First Commit");
+		System.out.println("check");
 
 	}
 
